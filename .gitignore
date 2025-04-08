@@ -1,0 +1,7 @@
+# Exclude unnecessary files and folders from push to github
+.venv/
+.env
+data/
+*.pdf
+*_tmp.html
+__pycache__
